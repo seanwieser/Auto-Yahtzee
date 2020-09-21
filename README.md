@@ -3,6 +3,7 @@
 ## Goal
 
 ## Tensorflow Object Detection API
+<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/object_detection.gif" width="900" height="675" />
 
 ## Non-Quantized Model
 <img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/nonquantized_roll.gif" width="900" height="675" />
