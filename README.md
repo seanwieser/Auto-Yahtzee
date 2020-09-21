@@ -5,8 +5,8 @@
 I wish to build a program that aids a single player Yahtzee game by reading dice rolls, giving scoring options, and keeping score. I created this program by using the Tensorflow Object Detection API to train a convolutional neural network on my dice
 
 ## Set up
-<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/top.jpg" width="900" height="675" />
-<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/inside.jpg" width="900" height="675" />
+<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/top.jpg" width="806" height="605" />
+<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/inside.jpg" width="806" height="605" />
 
 
 
