@@ -5,7 +5,7 @@
 ## Tensorflow Object Detection API
 
 ## Non-Quantized Model
-<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/nonquantized_roll.gif" width="40" height="40" />
+<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/nonquantized_roll.gif" width="900" height="675" />
 
 ## Quantized Model
 <img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/quantized_round.gif" width="100" height="100" />
