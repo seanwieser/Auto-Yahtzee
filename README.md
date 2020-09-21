@@ -11,7 +11,7 @@
 ![Alt Text](<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/quantized_round.gif" width="100" height="100" />)
 
 ## Quantized Lite Model
-![Alt Text](<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/lite_round.gif" width="100" height="100" />)
+<img src="https://github.com/seanwieser/Auto-Yahtzee/blob/master/lite_round.gif" width="100" height="100" />
 
 
 ## Quantized Lite Model with Google Coral
