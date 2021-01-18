@@ -1,5 +1,9 @@
 # Auto-Yahtzee
 
+## Presented in 5 Minutes
+
+[![Link to Video](https://github.com/seanwieser/Rock_Paper_Scissors/blob/master/images/RPS.png)](https://www.youtube.com/watch?v=f0QZLSG4xvc "Auto-Yahtzee")
+
 ## Introduction
 
 I wish to build a program that aids a single player Yahtzee game by reading dice rolls, giving scoring options, and keeping score. I created this program by using the Tensorflow Object Detection API to train a convolutional neural network on my dice then deploying the model on a Raspberry Pi 4 with Goggle Coral Edge TPU. I followed several tutorials from https://github.com/EdjeElectronics. This document is a representation of the performance improvement I saw throughout the development process.
