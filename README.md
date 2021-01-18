@@ -1,7 +1,7 @@
 # Auto-Yahtzee
 
 ## 5 Minute Presentation
-[![Link to Video](https://github.com/seanwieser/Auto-Yahtzee/blob/master/presentation_thumbnail.png)](https://www.youtube.com/watch?v=f0QZLSG4xvc "Auto-Yahtzee")
+[![Link to Video](https://github.com/seanwieser/Auto-Yahtzee/blob/master/presentation_thumbnail.png)](https://www.youtube.com/watch?v=f0QZLSG4xvc "Click to View")
 
 ## Introduction
 
