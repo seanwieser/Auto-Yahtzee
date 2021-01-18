@@ -1,4 +1,5 @@
 [![Link to Video](https://github.com/seanwieser/Auto-Yahtzee/blob/master/presentation_thumbnail.png)](https://www.youtube.com/watch?v=f0QZLSG4xvc "Auto-Yahtzee")
+
 ^^ Click title to watch the project presented in 5 minutes ^^
 ## Introduction
 
