@@ -2,7 +2,7 @@
 
 ## Presented in 5 Minutes
 
-[![Link to Video](https://github.com/seanwieser/Rock_Paper_Scissors/blob/master/images/RPS.png)](https://www.youtube.com/watch?v=f0QZLSG4xvc "Auto-Yahtzee")
+[![Link to Video](https://github.com/seanwieser/Auto-Yahtzee/blob/master/presentation_thumbnail.png)](https://www.youtube.com/watch?v=f0QZLSG4xvc "Auto-Yahtzee")
 
 ## Introduction
 
